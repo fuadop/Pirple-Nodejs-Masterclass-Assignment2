@@ -10,7 +10,6 @@
 		* create
 		* read
 		* update
-		* delete
 	* __Consumer Operations__
 		* Login and Logout using the token system
 		* Get all the menu items
